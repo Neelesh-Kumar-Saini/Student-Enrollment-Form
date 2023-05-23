@@ -21,3 +21,32 @@ Check that the data should be valid i.e. no empty fields.
 Click on [change] button to update the data in the database and go to step-2.
 
 Click [Reset] to reset the form as per the step-2.
+
+
+
+Features and Benefits of JPDB:-
+- Document Store
+Can store structured / semi-structured and unstructured data along with other types of files and big-data.
+
+- 100% REST-API DBMS
+Free from technology constraints - Low-Code and easy to use from any technology via HTTP Rest API.
+
+- RDBMS APIs
+Dynamic relational constraints while using CRUD operations. i.e. Relational data can be managed without pre-defining PK, FK, UK, databases, tables etc.
+
+- Key-Value Store API
+Key-Value Pair DBMS and API that can be useful for caching and session management to accelerate application DATA and other resources.
+
+- Real-time DBMS
+AI Javascript library to sync DATA dynamically on client's local storage in real-time for seamless experience.
+
+- NoSQL
+Native Server-Side NoSQL scripting, suitable for high performance real-time data processing.
+
+- Serverless Support
+Minimum learning curves, builds faster, cuts time to market, reduces the development cost.
+
+
+Illustration:- 
+
+![Screenshot (648)](https://github.com/Neelesh-Kumar-Saini/Student-Enrollment-Form/assets/78290043/52fab18b-6163-4f7a-9d37-904cdd1b42fd)
